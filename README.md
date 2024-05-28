@@ -5,6 +5,8 @@ command, enabling the display of all fortunes, including offensive ones.
 
 ## Installation
 
+Before install, please visit [fortune-mod/Offensive](https://github.com/Distrotech/fortune-mod/blob/master/Offensive) and remember that "It is easy to overdose on insult."
+
 ```bash
 git clone https://github.com/9beach/fortune-with-a-and-o.git
 cd fortune-with-a-and

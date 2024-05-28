@@ -9,8 +9,7 @@ Before install, please visit [fortune-mod/Offensive](https://github.com/Distrote
 
 ```bash
 git clone https://github.com/9beach/fortune-with-a-and-o.git
-cd fortune-with-a-and-o
-./install.sh
+cd fortune-with-a-and-o && ./install.sh
 ```
 
 You can now use `fortune -a` or `fortune -o` to display all fortunes.

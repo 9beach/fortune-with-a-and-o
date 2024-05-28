@@ -10,3 +10,5 @@ git clone https://github.com/9beach/fortune-with-a-and-o.git
 cd fortune-with-a-and
 ./install.sh
 ```
+
+You can now use `fortune -a` or `fortune -o` to display all fortunes.

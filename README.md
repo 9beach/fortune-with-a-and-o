@@ -9,7 +9,7 @@ Before install, please visit [fortune-mod/Offensive](https://github.com/Distrote
 
 ```bash
 git clone https://github.com/9beach/fortune-with-a-and-o.git
-cd fortune-with-a-and
+cd fortune-with-a-and-o
 ./install.sh
 ```
 
